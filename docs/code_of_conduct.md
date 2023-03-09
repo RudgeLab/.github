@@ -1,4 +1,4 @@
-# RudgeLabt Code of Conduct
+# RudgeLab Code of Conduct
 
 ## Our Pledge
 
