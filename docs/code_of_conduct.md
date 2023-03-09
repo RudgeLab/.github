@@ -1,8 +1,8 @@
-# Contributor Covenant Code of Conduct
+# RudgeLabt Code of Conduct
 
 ## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in our
+We as members, contributors, labmates, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
 identity and expression, level of experience, education, socio-economic status,
@@ -54,13 +54,19 @@ This Code of Conduct applies within all community spaces, and also applies when
 an individual is officially representing the community in public spaces.
 Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+representative at an online or offline conference, workshop, or other event.
 
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
+reported to the community leaders responsible for enforcement at different levels.
+
+Complaint Internally, talk with your supervisor: tim.rudge@newcastle.ac.uk
+
+Complaint Externally, talk to the School: computing@newcastle.ac.uk
+
+Other useful information from Newcastle University, [Complaints](https://www.ncl.ac.uk/student-progress/policies/procedures/complaints%20and%20resolution/) and [Get Help and Advice](https://www.ncl.ac.uk/doctoral-college/current-research-students/pgr-student-support/get-help-and-advice/).
+
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -102,6 +108,7 @@ communication with the community for a specified period of time. No public or
 private interaction with the people involved, including unsolicited interaction
 with those enforcing the Code of Conduct, is allowed during this period.
 Violating these terms may lead to a permanent ban.
+Formal compliant with the School of Computing.
 
 ### 4. Permanent Ban
 
@@ -111,6 +118,7 @@ individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence**: A permanent ban from any sort of public interaction within the
 community.
+Formal compliant with the School of Computing.
 
 ## Attribution
 
